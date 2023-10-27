@@ -1,0 +1,3 @@
+.embedded-postgresrc
+.pg-data/
+node_modules
