@@ -1,6 +1,6 @@
 {
   "name": "embedded-postgres-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Command line interface for embedded postgres",
   "main": "index.js",
   "repository": "https://github.com/agirorn/embedded-postgres-cli",
